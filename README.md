@@ -4,7 +4,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer from Lorient, France, specializing in building innovative solutions from home. I have a keen interest in open-source projects and enjoy collaborating with the community.
+I'm a passionate developer from Lorient, France, specializing in building innovative solutions, currently building the next-gen web3 layer 1 for zk. I have a keen interest in open-source projects and enjoy collaborating with the community.
+
 
 - 🌍 Location: Lorient, France
 - 💼 Affiliation: [Hyle-org](https://github.com/Hyle-org)
