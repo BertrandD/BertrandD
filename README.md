@@ -8,7 +8,7 @@ I'm a passionate developer from Lorient, France, specializing in building innova
 
 
 - 🌍 Location: Lorient, France
-- 💼 Affiliation: [Hyle-org](https://github.com/Hyle-org)
+- 💼 Working at: [Hyle-org](https://github.com/Hyle-org)
 - 🌐 Other Profiles: [GitLab](https://gitlab.com/dinap)
 
 ## 🛠️ Technologies & Tools
